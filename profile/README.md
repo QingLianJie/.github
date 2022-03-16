@@ -1,7 +1,7 @@
 <br />
 <p align="center">
   <a href="https://qinglianjie.cn">
-    <img width="180px" alt="Logo" src="icon.svg?" />
+    <img width="180px" alt="Logo" src="./icon.svg" />
   </a>
 </p>
 <br />
