@@ -1,7 +1,7 @@
 <br />
 <p align="center">
   <a href="https://qinglianjie.cn">
-    <img width="180px" alt="Logo" src="./icon.svg" />
+    <img width="180px" alt="Logo" src="https://raw.githubusercontent.com/QingLianJie/.github/main/profile/icon.svg" />
   </a>
 </p>
 <br />
@@ -15,3 +15,4 @@
   &nbsp; • &nbsp;
   <a href="https://qing-dev.dist.run"><strong>开发版</strong></a>
 </p>
+<br />
