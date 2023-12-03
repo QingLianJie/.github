@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://qinglianjie.cn">
-    <img width="220px" alt="Logo" src="./icon.svg" />
+    <img width="220px" alt="Logo" src="/profile/icon.svg" />
   </a>
 </p>
 
